@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37bca20-3e3e-4b45-9b52-173791544827" name="Default Changelist" comment="两个页面都改">
+    <list default="true" id="f37bca20-3e3e-4b45-9b52-173791544827" name="Default Changelist" comment="ppt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/view/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/view/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/view/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/view/signin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617935555449</updated>
       <workItem from="1621255623517" duration="8339000" />
+      <workItem from="1621268512682" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="图片">
       <created>1621256030309</created>
@@ -152,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621264401537</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ppt">
+      <created>1621268586054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621268586054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +186,8 @@
     <MESSAGE value="加标题" />
     <MESSAGE value="改标题" />
     <MESSAGE value="两个页面都改" />
-    <option name="LAST_COMMIT_MESSAGE" value="两个页面都改" />
+    <MESSAGE value="ppt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ppt" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -264,10 +274,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621261488169" />
-    <state x="311" y="156" key="Vcs.Push.Dialog.v2" timestamp="1621264689073">
+    <state x="311" y="156" key="Vcs.Push.Dialog.v2" timestamp="1621269348340">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="311" y="156" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621264689073" />
+    <state x="311" y="156" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621269348340" />
     <state x="340" y="199" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1619836225522" />
     <state x="587" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620141374043">
       <screen x="0" y="0" width="1680" height="1050" />
