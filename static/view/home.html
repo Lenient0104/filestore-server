@@ -45,6 +45,11 @@
                             </button>
                             <button class="btn btn-primary home-button" onclick="toMPUploadFile()">分块上传文件
                             </button>
+                            文件类型：
+                            <select>
+                                <option value ="zip">ppt/pptx</option>
+                                <option value ="pdf">PDF</option>
+                            </select>
                             <div class="line-horizon"></div>
                         </div>
                         <div style="width:100%;">
@@ -186,6 +191,8 @@
         logout();
     }
 
+
+
     function downloadFile(durl) {
         $.ajax({
             url: durl,
@@ -263,6 +270,10 @@
                 window.location.href = '/static/view/home.html';
             }
         });
+    }
+
+    function Classify() {
+
     }
 </script>
 
