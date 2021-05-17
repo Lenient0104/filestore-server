@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37bca20-3e3e-4b45-9b52-173791544827" name="Default Changelist" comment="图片">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f37bca20-3e3e-4b45-9b52-173791544827" name="Default Changelist" comment="图片修改大小" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -107,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617935555449</updated>
-      <workItem from="1621255623517" duration="2930000" />
+      <workItem from="1621255623517" duration="3239000" />
     </task>
     <task id="LOCAL-00001" summary="图片">
       <created>1621256030309</created>
@@ -116,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621256030309</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="图片修改大小">
+      <created>1621261349159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621261349159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +141,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="图片" />
+    <MESSAGE value="图片修改大小" />
+    <option name="LAST_COMMIT_MESSAGE" value="图片修改大小" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -215,10 +221,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1626" height="349" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1620142780264" />
-    <state x="311" y="156" key="Vcs.Push.Dialog.v2" timestamp="1621257573794">
+    <state x="270" y="57" key="SettingsEditor" timestamp="1621261488169">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="311" y="156" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621257573794" />
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621261488169" />
+    <state x="311" y="156" key="Vcs.Push.Dialog.v2" timestamp="1621261506448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="311" y="156" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621261506448" />
     <state x="340" y="199" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1619836225522" />
     <state x="587" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620141374043">
       <screen x="0" y="0" width="1680" height="1050" />
